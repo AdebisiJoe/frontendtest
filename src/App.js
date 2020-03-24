@@ -10,7 +10,7 @@ import './styles/searchbar.css';
 function App() {
   return (
     <div>
-     
+     <Searchbar/>
      <Sidebar/>
     </div> 
   );
