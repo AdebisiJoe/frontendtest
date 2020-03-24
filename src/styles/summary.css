@@ -1,0 +1,18 @@
+.summary{
+    margin-left:270px;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.summaryitems{
+    margin-top:10px;
+    
+    padding: 14px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 6px;
+    flex: 1;
+    width:10%;
+}
