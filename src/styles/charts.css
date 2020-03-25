@@ -1,0 +1,33 @@
+.chartsection{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left:270px;
+    max-width: 1200px;
+}
+
+.mainchart{
+flex: 2;
+height: 400px;
+background-color: #FFFFFF;
+border: 1px solid #EEF8FD;
+box-sizing: border-box;
+border-radius: 2px;
+}
+
+.orderssummary{
+flex: 1;
+height: 400px;
+background-color: #FFFFFF;
+border: 1px solid #EEF8FD;
+box-sizing: border-box;
+flex: 0 0 70%;
+}
+
+.paymentssummary{
+flex: 1;
+height: 400px;
+background-color: #FFFFFF;
+border: 1px solid #EEF8FD;
+box-sizing: border-box;
+}

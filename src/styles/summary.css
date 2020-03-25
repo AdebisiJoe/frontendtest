@@ -9,10 +9,11 @@
     margin-top:10px;
     
     padding: 14px;
+    box-sizing: border-box;
     margin-bottom: 20px;
-    text-align: center;
+    /* text-align: center; */
     background-color: #fff;
     border-radius: 6px;
-    flex: 1;
-    width:10%;
+    
+    width:23%;
 }
